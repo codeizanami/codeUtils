@@ -32,6 +32,7 @@ O clic derecho sobre el archivo → **Ejecutar con PowerShell**.
 
 El script se auto-eleva a administrador si no lo es. Al terminar reinicia el sistema automáticamente.
 
+Aviso! No me hago responable de lo que le pase a tu sistema despues de usar este script, utilizalo bajo tu responsabilidad.
 ---
 
 ## Requisitos
