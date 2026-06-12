@@ -58,7 +58,6 @@ Diseñada para sacar el máximo rendimiento de un PC gaming con Windows 10 Pro, 
 
 [![Descargar](https://img.shields.io/badge/⬇%20%20Descargar%20codeUtils.exe-6366f1?style=for-the-badge&labelColor=0d0d0f)](https://github.com/codeizanami/codeUtils/releases/latest)
 
-O descárgalo desde la **[web oficial](https://codeizanami.es)**.
 
 ---
 
