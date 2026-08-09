@@ -175,8 +175,7 @@ Control total sobre Windows Update con advertencias claras sobre las implicacion
 ```
   codeOS
   ├── codeOS Gaming ISO    — Instalación desatendida de Windows 10 gaming
-  ├── codeOS Estudio ISO   — Instalación para trabajo y producción
-  ├── codeOS Server ISO    — Instalación para servidor
+  ├── codeOS MAX           — Próximamente.
   └── codeUtils            — esta herramienta
 ```
 
